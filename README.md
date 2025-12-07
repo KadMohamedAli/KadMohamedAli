@@ -19,8 +19,6 @@ I'm a full-stack developer from Algeria 🇩🇿 with experience in React, Expre
 - **[Run Algeria](https://github.com/KadMohamedAli/run_algeria)** – Platform listing running races in Algeria 🏃‍♂️
 - **[Deep-Learning-Adult-Film-detection-on-video](https://github.com/KadMohamedAli/Deep-Learning-Adult-Film-detection-on-video)** – CNN-based video moderation project   
 - **[USDB3D](https://github.com/KadMohamedAli/USDB3D)** – 3D model of Saad Dahleb University (Blender)  
-- **[Blague_Raciste_androidApp](https://github.com/KadMohamedAli/Blague_Raciste_androidApp)** – Android app using Firebase  
-- **[WebAppEnchereTempsReel](https://github.com/KadMohamedAli/WebAppEnchereTempsReel)** – Real-time auction web app (Java EE + WebSockets)  
 
 *(Check out all my repositories [here](https://github.com/KadMohamedAli?tab=repositories))*
 
